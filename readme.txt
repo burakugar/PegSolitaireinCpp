@@ -1,0 +1,2 @@
+IN 6'TH GAME, UP DIRECTION IS CHOSEN AS RIGHT, DOWN DIRECTION IS CHOSEN AS LEFT.
+For running the makefile make sure that you are in the project's directory. In project's directory, you can enter to the terminal "make" which is enough to compile all of the files.
